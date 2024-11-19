@@ -7,10 +7,10 @@ Hi, I'm Maximiliano Duran
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Mobile Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fedu.gcfglobal.org%2Fen%2Fcomputer-programming-basics%2Fintroduction-to-computer-programming%2F1%2F&psig=AOvVaw2SwSHCDYW6WPZVtMhpn5fx&ust=1732105645940000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjj6ciy6IkDFQAAAAAdAAAAABAJ" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="" alt="" width="320" />
 <hr>
 
 ```
