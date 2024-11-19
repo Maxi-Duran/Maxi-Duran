@@ -1,5 +1,5 @@
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+![image](https://github.com/user-attachments/assets/de2626b5-0e6f-4390-9301-38eff9d81942)<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fedu.gcfglobal.org%2Fen%2Fcomputer-programming-basics%2Fintroduction-to-computer-programming%2F1%2F&psig=AOvVaw2SwSHCDYW6WPZVtMhpn5fx&ust=1732105645940000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjj6ciy6IkDFQAAAAAdAAAAABAJ" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
