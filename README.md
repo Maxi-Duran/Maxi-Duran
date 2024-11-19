@@ -50,7 +50,7 @@ Hi, I'm Maximiliano Duran
     <a href="#"><img alt="DaisyUi" src=" https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"></a>
     <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"></a>
     <a href="#"><img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"></a>
-    <a href="#"><img alt="Nextjs"    https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "></a>
+    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "></a>
 
 
 </p>
